@@ -17,3 +17,8 @@
     color: white;
     border-color: white;
 }
+.product-cart {
+    position: fixed;
+    top:0;
+    right: 10px;
+}
